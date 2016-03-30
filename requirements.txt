@@ -1,0 +1,42 @@
+Raffle & Draw Requirements
+
+(1) List Raffles - Display:
+	- Add New Button
+	- Modify Button
+	- Per Raffle: 
+		- Start Date
+		- End Date
+		- Status (Started, In Progress, Complete)
+		- End Raffle Button (if in progress)
+
+(2) Create Raffle
+	- Start Date
+	- End Date
+	- Add Prize
+	- Base Prize Image
+	
+(3) Add Prize
+	- List of previous prizes
+	- Quantity
+	- New Prize Button
+	- 
+
+(4) New Prize
+	- Name
+	- ISK Value
+	- Other Value
+	- Audio File
+	- Image File
+
+(5) End Raffle Workflow
+	(a) List End Raffle Screen
+		- Some background info, eg No of entries, total prize pool, etc.
+		- Select a Winner Button
+		- Randomly scroll through winners animation, similar to slot machine
+		- Display Selected Winner
+	(b) Select Prize Box screen
+		- Grid of prize boxes to display
+		- on click of box, play animation for reveal
+		- reveal prize
+		- hidden button to reveal all prizes.
+	
